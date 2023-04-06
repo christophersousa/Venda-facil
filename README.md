@@ -1,6 +1,6 @@
 # Workshop <Insider/>
 
-## Sobre o teste
+## Sobre o Aplicativo
 
 Criação de uma aplicação voltada a culinária, o aplicativo disponibiliza algumas receitas e seus modos de preparo, onde podem ser salvas como favorítas.
 
