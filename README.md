@@ -30,7 +30,7 @@ npx expo start
 
 ```
 
-## Autor
+## Autores
 
 <table>
   <tr>
