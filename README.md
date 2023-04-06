@@ -52,7 +52,7 @@ npx expo start
         <img src="https://avatars.githubusercontent.com/u/49500316?s=200&v=4" width="100px;"/>
         <br />
         <sub>
-          <b>Sujeito Programador/b>
+          <b>Sujeito Programador</b>
         </sub>
        </a>
        <br />
